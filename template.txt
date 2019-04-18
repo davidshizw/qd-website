@@ -1,0 +1,35 @@
+<style>
+  /* 设置字体 */
+  p, a, h1, h2 {
+    font-family: Arial,Helvetica,sans-serif;
+  }
+  
+  /* 设置段落文字大小、上边缘留白及行高 */
+  p {
+    font-size: 14px;
+    margin-top: 10px;
+    line-height: 180%;
+  }
+  
+  /* 设置主副标题颜色 */
+  h1, h2 {
+    color: #003F79;
+  }
+  
+  /* 设置副标题上边缘留白 */
+  h2 {
+    margin-top: 20px;
+  }
+</style>
+
+<!-- 主标题 -->
+<h1></h1>
+
+<!-- 副标题 -->
+<h2></h2>
+
+<!-- 段落 -->
+<p></p>
+
+<!-- 插入超链接 -->
+<a href="此处替换为超链接URL"></a>
