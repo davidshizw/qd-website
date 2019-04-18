@@ -9,7 +9,7 @@
     font-size: 15px;
     margin-top: 15px;
     line-height: 160%;
-    color: #909090;
+    color: #606060;
     text-align: justify;
   }
   
@@ -37,3 +37,8 @@
 
 <!-- 插入超链接 -->
 <a href="此处替换为超链接URL"></a>
+
+<!-- 插入图片 -->
+<div align="center/left/right/justify 选择任一">
+  <img src=“” title=“光标移动到图片上时显示的文字，请替换” alt=”图片加载失败时显示的文字，请替换” width=“100%”>
+</div>
