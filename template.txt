@@ -1,23 +1,27 @@
 <style>
   /* 设置字体 */
   p, a, h1, h2 {
-    font-family: Arial,Helvetica,sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
   }
   
-  /* 设置段落文字大小、上边缘留白及行高 */
+  /* 设置段落文字大小、上边缘留白、行高、颜色及对齐方式 */
   p {
-    font-size: 14px;
-    margin-top: 10px;
-    line-height: 180%;
+    font-size: 15px;
+    margin-top: 15px;
+    line-height: 160%;
+    color: #909090;
+    text-align: justify;
   }
   
-  /* 设置主副标题颜色 */
-  h1, h2 {
-    color: #003F79;
+  /* 设置主标题颜色及下边缘留白 */
+  h1 {
+    color: #E7203F;
+    margin-bottom: 10px;
   }
   
-  /* 设置副标题上边缘留白 */
+  /* 设置副标题颜色及上边缘留白 */
   h2 {
+    color: #003d7d;
     margin-top: 20px;
   }
 </style>
