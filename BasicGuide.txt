@@ -1,3 +1,6 @@
+下载模版及基本指南请访问
+https://github.com/davidshizw/qd-website
+
 设置字体大小
 font-size: 20px;
 
